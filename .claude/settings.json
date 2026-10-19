@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(**/server.js)",
+      "Read(**/docs.js)",
+      "Read(**/public/**)",
+      "Edit(**/server.js)",
+      "Edit(**/docs.js)",
+      "Edit(**/public/**)",
+      "Edit(**/CLAUDE.md)",
+      "Edit(**/.claude/**)",
+      "Bash(git push:*)"
+    ]
+  }
+}

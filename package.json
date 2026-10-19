@@ -1,0 +1,15 @@
+{
+  "name": "shop-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API товаров, остатков и продаж",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "swagger-ui-dist": "5.17.14"
+  }
+}
